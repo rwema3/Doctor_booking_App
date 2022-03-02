@@ -33,4 +33,4 @@ List<SpecialityModel> getSpeciality(){
 
   specialityModel = new SpecialityModel();
 
-  return specialit
+  return speciali
