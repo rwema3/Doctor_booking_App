@@ -28,4 +28,4 @@ List<SpecialityModel> getSpeciality(){
   specialityModel.noOfDoctors = 27;
   specialityModel.speciality = "Diabetes Care";
   specialityModel.imgAssetPath = "assets/img3.png";
-  specialityModel.
+  specialityModel
