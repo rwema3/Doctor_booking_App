@@ -28,4 +28,3 @@ List<SpecialityModel> getSpeciality(){
   specialityModel.noOfDoctors = 27;
   specialityModel.speciality = "Diabete
   specialityModel.imgAssetPath = "assets/img3.png";
-  specialityModel.backgroundColor
