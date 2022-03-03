@@ -25,4 +25,10 @@ List<SpecialityModel> getSpeciality(){
   specialityModel = new SpecialityModel();
 
   //3
-  
+  specialityModel.noOfDoctors = 27;
+  specialityModel.speciality = "Diabetes Care";
+  specialityModel.imgAssetPath = "assets/img3.png";
+  specialityModel.backgroundColor = Color(0xffEACBCB);
+  specialities.add(specialityModel);
+
+  special
