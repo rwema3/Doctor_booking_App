@@ -30,4 +30,4 @@ List<SpecialityModel> getSpeciality(){
   specialityModel.imgAssetPath = "assets/img3.png";
   specialityModel.backgroundColor = Color(0xffEACBCB);
   specialities.add(specialityModel)
-  special
+  spec
