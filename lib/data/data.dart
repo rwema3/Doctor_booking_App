@@ -29,4 +29,4 @@ List<SpecialityModel> getSpeciality(){
   specialityModel.speciality = "Diabete
   specialityModel.imgAssetPath = "assets/img3.png";
   specialityModel.backgroundColor = Color(0xffEACBCB);
-  specialities.add(
+  specialities.ad
