@@ -16,7 +16,7 @@ List<SpecialityModel> getSpeciality(){
   specialityModel = new SpecialityModel();
 
   //2
-  specialityModel.noOfDoctors = 1
+  specialityModel.noOfDoctors =
   specialityModel.speciality = "Heart Specialist";
   specialityModel.imgAssetPath = "assets/img2.png";
   specialityModel.backgroundColor = Color(0xffF69383);
