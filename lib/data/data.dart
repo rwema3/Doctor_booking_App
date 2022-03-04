@@ -21,3 +21,5 @@ List<SpecialityModel> getSpeciality(){
   specialityModel.imgAssetPath = "assets/img2.png";
   specialityModel.backgroundColor = Color(0xffF69383);
   specialities.add(specialityModel);
+
+  specialityModel = new 
