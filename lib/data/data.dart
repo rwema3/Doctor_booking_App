@@ -26,4 +26,4 @@ List<SpecialityModel> getSpeciality(){
 
   //3
   specialityModel.noOfDoctors = 27;
-  specia
+  speciali
