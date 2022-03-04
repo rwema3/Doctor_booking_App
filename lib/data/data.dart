@@ -20,4 +20,3 @@ List<SpecialityModel> getSpeciality(){
   specialityModel.speciality = "Heart Specialist";
   specialityModel.imgAssetPath = "assets/img2.png";
   specialityModel.backgroundColor = Color(0xffF69383);
-  specialities.add(specialityMode
