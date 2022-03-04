@@ -23,3 +23,4 @@ List<SpecialityModel> getSpeciality(){
   specialities.add(specialityModel);
 
   specialityModel = new SpecialityModel();
+
