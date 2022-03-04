@@ -25,4 +25,4 @@ List<SpecialityModel> getSpeciality(){
   specialityModel = new SpecialityModel();
 
   //3
-  s
+  spe
