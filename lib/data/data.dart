@@ -22,3 +22,5 @@ List<SpecialityModel> getSpeciality(){
   specialityModel.backgroundColor = Color(0xffF69383);
   specialities.add(specialityModel);
 
+  specialityModel = new SpecialityModel();
+
