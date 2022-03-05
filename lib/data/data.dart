@@ -6,12 +6,4 @@ List<SpecialityModel> getSpeciality(){
   List<SpecialityModel> specialities = new List<SpecialityModel>();
   SpecialityModel specialityModel = new SpecialityModel();
 
-  //1
-  specialityModel.noOfDoctors = 10;
-  specialityModel.speciality = "Cough & Cold";
-  specialityModel.imgAssetPath = "assets/img1.png";
-  specialityModel.backgroundColor = Color(0xffFBB97C);
-  specialities.add(specialityModel);
-
-
 
