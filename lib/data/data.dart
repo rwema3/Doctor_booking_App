@@ -24,3 +24,7 @@ List<SpecialityModel> getSpeciality(){
 
   specialityModel = new SpecialityModel();
 
+  //3
+  specialityModel.noOfDoctors = 27;
+  specialityModel.speciality = "Diabete
+  specialityModel.imgAssetPath =
